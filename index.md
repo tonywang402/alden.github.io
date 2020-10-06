@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 百度前端零基础前端--学习第一天
 
-You can use the [editor on GitHub](https://github.com/tonywang402/alden.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**日期**：2020年10月6日
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**用时**：一个小时
 
-### Markdown
+**目标**：完成第一课的任务
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+**了解透彻的东西**：
 
-- Bulleted
-- List
+我对`HTML、CSS、JavaScript`之前了解过。
 
-1. Numbered
-2. List
+- `HTML`是超文本标记语言，我认为是一种文本的标记格式。就像Markdown也是一种标记语言
+- `CSS`是定义样式的代码
+- `JavaScript`用来给页面添加动态效果，和用户进行交互
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**了解一些的东西**：
 
-### Jekyll Themes
+了解了访问网站的大概过程。以及`Web Server`
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tonywang402/alden.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**需要后续继续深入阅读的东西**：
+
+前后端的交互，包括`HTTP`协议，`AJAX`
+
+
+
+**疑问**
+
+- 什么是平衡负载？
+- `Web Framework`和`Web Server`的联系？
+
